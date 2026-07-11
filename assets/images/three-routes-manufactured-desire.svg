@@ -1,0 +1,66 @@
+<svg width="700" height="520" viewBox="0 0 700 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three routes out of the manufactured desire problem, each with its cost" font-family="Georgia, 'Times New Roman', serif">
+<title>Three routes out of the manufactured desire problem</title>
+<desc>The central question — can you tell whether you want what you want, or want what you were made to want — branches into three answers. Route one denies the test is needed, at the cost of making manipulation uncriticisable. Route two proposes a counterfactual test, at the cost of being unrunnable. Route three relocates the question to material conditions, at the cost of abandoning the inner life.</desc>
+
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</marker>
+</defs>
+
+<rect x="130" y="24" width="440" height="66" rx="10" fill="#FAECE7" stroke="#993C1D" stroke-width="1"/>
+<text x="350" y="47" text-anchor="middle" font-size="15" font-weight="bold" fill="#712B13">The problem</text>
+<text x="350" y="70" text-anchor="middle" font-size="12.5" fill="#993C1D">Do you want what you want — or want what you were made to want?</text>
+
+<line x1="350" y1="90" x2="350" y2="118" stroke="#888780" stroke-width="1.5"/>
+<line x1="120" y1="118" x2="580" y2="118" stroke="#888780" stroke-width="1.5"/>
+<line x1="120" y1="118" x2="120" y2="146" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="350" y1="118" x2="350" y2="146" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="580" y1="118" x2="580" y2="146" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="25" y="154" width="190" height="78" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<text x="120" y="176" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2C2C2A">1. No test needed</text>
+<text x="120" y="199" text-anchor="middle" font-size="11.5" fill="#5F5E5A">A preference is just</text>
+<text x="120" y="216" text-anchor="middle" font-size="11.5" fill="#5F5E5A">a preference</text>
+
+<rect x="255" y="154" width="190" height="78" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<text x="350" y="176" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2C2C2A">2. Counterfactual</text>
+<text x="350" y="199" text-anchor="middle" font-size="11.5" fill="#5F5E5A">Would you still make it</text>
+<text x="350" y="216" text-anchor="middle" font-size="11.5" fill="#5F5E5A">if it stopped selling?</text>
+
+<rect x="485" y="154" width="190" height="78" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="580" y="176" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#085041">3. Look outward</text>
+<text x="580" y="199" text-anchor="middle" font-size="11.5" fill="#0F6E56">Not what you want —</text>
+<text x="580" y="216" text-anchor="middle" font-size="11.5" fill="#0F6E56">what you can afford to</text>
+
+<line x1="120" y1="232" x2="120" y2="266" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="350" y1="232" x2="350" y2="266" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="580" y1="232" x2="580" y2="266" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="25" y="274" width="190" height="86" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="120" y="296" text-anchor="middle" font-size="12" font-weight="bold" fill="#633806">The cost</text>
+<text x="120" y="319" text-anchor="middle" font-size="11.5" fill="#854F0B">Manipulation becomes</text>
+<text x="120" y="336" text-anchor="middle" font-size="11.5" fill="#854F0B">impossible to criticise</text>
+
+<rect x="255" y="274" width="190" height="86" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="350" y="296" text-anchor="middle" font-size="12" font-weight="bold" fill="#633806">The cost</text>
+<text x="350" y="319" text-anchor="middle" font-size="11.5" fill="#854F0B">You cannot run it on</text>
+<text x="350" y="336" text-anchor="middle" font-size="11.5" fill="#854F0B">yourself honestly</text>
+
+<rect x="485" y="274" width="190" height="86" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="580" y="296" text-anchor="middle" font-size="12" font-weight="bold" fill="#633806">The cost</text>
+<text x="580" y="319" text-anchor="middle" font-size="11.5" fill="#854F0B">Gives up on the inner</text>
+<text x="580" y="336" text-anchor="middle" font-size="11.5" fill="#854F0B">life altogether</text>
+
+<line x1="580" y1="360" x2="580" y2="398" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="360" y="406" width="315" height="86" rx="10" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="517" y="430" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#085041">Marx's move</text>
+<text x="517" y="453" text-anchor="middle" font-size="11.5" fill="#0F6E56">Freedom is not an inner state.</text>
+<text x="517" y="470" text-anchor="middle" font-size="11.5" fill="#0F6E56">It is the room to have chosen otherwise.</text>
+
+<text x="30" y="432" font-size="11.5" font-style="italic" fill="#5F5E5A">Ask a man if he is free</text>
+<text x="30" y="452" font-size="11.5" font-style="italic" fill="#5F5E5A">and he will say yes.</text>
+<text x="30" y="472" font-size="11.5" font-style="italic" fill="#5F5E5A">Ask what happens if he</text>
+<text x="30" y="492" font-size="11.5" font-style="italic" fill="#5F5E5A">stops working on Monday.</text>
+</svg>
