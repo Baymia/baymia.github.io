@@ -28,6 +28,8 @@ If that is what we are, then alienation is not merely unpleasant. It is a kind o
 
 **Four: alienation from other people.** Everyone else is now a competitor for wages, a buyer, a seller, a rival. The workshop that could have been a place of shared making becomes a room full of strangers, each privately estimating the others' usefulness.
 
+![Influence tree for Marx's alienation](/assets/images/marx-influence-tree.svg)
+
 ## Why "boring job" is the wrong reading
 
 Here is the test that separates Marx's idea from the pop-psychology version.
