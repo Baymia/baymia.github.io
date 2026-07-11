@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can You Want What You Want? The Problem of Manufactured Desire"
-date: 2026-07-12
+date: 2026-07-11
 categories: [western, contemporary]
 tags: [marx, frankfurt-school, autonomy, desire, ethics, the-modern-condition]
 ---
