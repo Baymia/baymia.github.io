@@ -1,3 +1,5 @@
 theme: minima
 title: Thinkerbell
 description: Notes on philosophy, one essay at a time
+minima:
+  skin: dark
