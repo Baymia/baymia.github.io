@@ -54,6 +54,8 @@ I can find three answers. None of them survives intact.
 
 *The cost:* it gives up on the inner life entirely. It says: I cannot see inside you and neither can you, so let us stop looking there.
 
+![Three routes out of the manufactured desire problem, each with its cost](/assets/images/three-routes-manufactured-desire.svg)
+
 ## Why the third one is the interesting one
 
 Notice what Route Three does. It **relocates the entire problem** — out of psychology, into material conditions.
