@@ -139,3 +139,31 @@ hr {
   font-family: 'Cormorant Garamond', serif;
   color: $forest;
 }
+
+.post-list > li {
+  background: #F2F6E8;
+  border: 1px solid $hairline;
+  border-radius: 6px;
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 1.25rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.post-list > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(30, 51, 9, 0.12);
+  border-color: $cerise;
+}
+
+.post-list > li:last-child {
+  margin-bottom: 1.25rem;
+}
+
+.post-list h3 {
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-list > li p {
+  margin-bottom: 0;
+}
