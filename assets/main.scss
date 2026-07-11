@@ -167,3 +167,15 @@ hr {
 .post-list > li p {
   margin-bottom: 0;
 }
+
+/* wider overall page */
+.wrapper {
+  max-width: 62rem;
+}
+
+/* but keep the essay column narrow for reading */
+.post-content {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
