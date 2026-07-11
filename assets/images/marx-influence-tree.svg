@@ -1,0 +1,47 @@
+<svg width="680" height="470" viewBox="0 0 680 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Influence tree for Marx's theory of alienation" font-family="Georgia, 'Times New Roman', serif">
+<title>Influence tree for Marx's theory of alienation</title>
+<desc>Hegel and Feuerbach feed into Marx's 1844 concept of alienated labour, which breaks into four fractures, and which in turn influences the Frankfurt School, existentialism, and contemporary questions about AI and identity.</desc>
+
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</marker>
+</defs>
+
+<rect x="90" y="30" width="200" height="56" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<text x="190" y="50" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#2C2C2A">Hegel</text>
+<text x="190" y="70" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#5F5E5A">Spirit estranged from itself</text>
+
+<rect x="380" y="30" width="200" height="56" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<text x="480" y="50" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#2C2C2A">Feuerbach</text>
+<text x="480" y="70" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#5F5E5A">Religion as projection</text>
+
+<line x1="190" y1="86" x2="290" y2="128" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="480" y1="86" x2="390" y2="128" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="230" y="136" width="220" height="60" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1"/>
+<text x="340" y="157" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#712B13">Marx, 1844</text>
+<text x="340" y="177" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#993C1D">Alienated labour</text>
+
+<line x1="340" y1="196" x2="340" y2="228" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="60" y="236" width="560" height="70" rx="12" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="340" y="258" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#633806">The four fractures</text>
+<text x="340" y="284" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#854F0B">product &#183; activity &#183; species-being &#183; other people</text>
+
+<line x1="150" y1="306" x2="150" y2="350" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="340" y1="306" x2="340" y2="350" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="530" y1="306" x2="530" y2="350" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="60" y="358" width="180" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="150" y="379" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#085041">Frankfurt School</text>
+<text x="150" y="399" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#0F6E56">Culture industry</text>
+
+<rect x="250" y="358" width="180" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="340" y="379" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#085041">Existentialism</text>
+<text x="340" y="399" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#0F6E56">No essence to lose?</text>
+
+<rect x="440" y="358" width="180" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+<text x="530" y="379" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="bold" fill="#085041">AI and identity</text>
+<text x="530" y="399" text-anchor="middle" dominant-baseline="central" font-size="12.5" fill="#0F6E56">The open question</text>
+</svg>
